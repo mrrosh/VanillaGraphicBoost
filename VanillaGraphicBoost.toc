@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: VanillaGraphicsBoost   |cFFFF8080by Istox|r
+## Version: 1.0
+## Notes: https://bitbucket.org/StevenShiers/vanillagraphicboost
+## Author: Steven "Istox" Shiers
+
+VanillaGraphicBoost.lua
