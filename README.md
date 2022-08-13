@@ -1,3 +1,5 @@
+# **If you're using pfUI, you no longer need this addon!**
+
 # VanillaGraphicBoost
 
 Tired of following guides with console commands? This addon will change your game setting automatically each time you log your character into the game world.
